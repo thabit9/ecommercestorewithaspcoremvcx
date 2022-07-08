@@ -1,0 +1,328 @@
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\appsettings.json
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.exe
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.deps.json
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.runtimeconfig.json
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.runtimeconfig.dev.json
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.dll
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\ref\EcommerceStoreWithASPCoreMVC.dll
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.pdb
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.csproj.AssemblyReference.cache
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.AssemblyInfoInputs.cache
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.AssemblyInfo.cs
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.csproj.CoreCompileInputs.cache
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\staticwebassets\EcommerceStoreWithASPCoreMVC.StaticWebAssets.Manifest.cache
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\staticwebassets\EcommerceStoreWithASPCoreMVC.StaticWebAssets.xml
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\scopedcss\bundle\EcommerceStoreWithASPCoreMVC.styles.css
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorTargetAssemblyInfo.cache
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.dll
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\ref\EcommerceStoreWithASPCoreMVC.dll
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.pdb
+C:\users\Thabi\Desktop\Projects\netcore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.genruntimeconfig.cache
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.Views.dll
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.Views.pdb
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorAssemblyInfo.cache
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorAssemblyInfo.cs
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.TagHelpers.input.cache
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.TagHelpers.output.cache
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorCoreGenerate.cache
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorTargetAssemblyInfo.cs
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.Views.pdb
+C:\users\Thabi\desktop\projects\NETCore5\EcommerceStore\EcommerceStoreWithASPCoreMVC\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.csproj.CopyComplete
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Humanizer.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.StaticWebAssets.xml
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\DashBoard\Index.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Castle.Core.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\users\Thabi\desktop\projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Profile.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\appsettings.Development.json
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\appsettings.json
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.StaticWebAssets.xml
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.exe
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.deps.json
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.runtimeconfig.json
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.runtimeconfig.dev.json
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ref\EcommerceStoreWithASPCoreMVC.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.Views.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\EcommerceStoreWithASPCoreMVC.Views.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Castle.Core.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Humanizer.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.csproj.AssemblyReference.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.AssemblyInfoInputs.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.AssemblyInfo.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.csproj.CoreCompileInputs.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.MvcApplicationPartsAssemblyInfo.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorAssemblyInfo.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorAssemblyInfo.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\staticwebassets\EcommerceStoreWithASPCoreMVC.StaticWebAssets.Manifest.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\staticwebassets\EcommerceStoreWithASPCoreMVC.StaticWebAssets.xml
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\scopedcss\bundle\EcommerceStoreWithASPCoreMVC.styles.css
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.TagHelpers.input.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.TagHelpers.output.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorCoreGenerate.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\DashBoard\Index.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Index.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Login\Profile.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorTargetAssemblyInfo.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.RazorTargetAssemblyInfo.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.Views.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.csproj.CopyComplete
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\ref\EcommerceStoreWithASPCoreMVC.dll
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.pdb
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.genruntimeconfig.cache
