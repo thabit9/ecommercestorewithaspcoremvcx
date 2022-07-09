@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -77,8 +78,30 @@ namespace ecommercestorewithaspcoremvc.Areas.Admin.Controllers
         [Route("profile")]
         public IActionResult Profile()
         {
-            securityManager.SignOut(this.HttpContext);
-            return RedirectToAction("index", "login", new { area = "admin" });
+            var user = User.FindFirst(ClaimTypes.Name);
+            var Username = user.Value;
+            var account = _db.Accounts.SingleOrDefault(a => a.Username.Equals(Username));
+            return View("Profile", account);
+        }
+
+        [HttpPost]
+        [Route("profile")]
+        public IActionResult Profile(Account account)
+        {
+            var currentAccount = _db.Accounts.SingleOrDefault(a => a.Username.Equals(account.Username));
+            if(!string.IsNullOrEmpty(account.Password))
+            {
+                currentAccount.Password = BCrypt.Net.BCrypt.HashPassword(account.Password);
+            }
+            currentAccount.Username = account.Username;
+            //currentAccount.Password = account.Password;
+            currentAccount.Email = account.Email;
+            currentAccount.FullName = account.FullName;
+            //currentAccount.Status = account.Status;
+            _db.SaveChanges();
+
+            ViewBag.msg = "Profile updated successfully(Done)";
+            return View("Profile");
         }
 
         [Route("accessdenied")]

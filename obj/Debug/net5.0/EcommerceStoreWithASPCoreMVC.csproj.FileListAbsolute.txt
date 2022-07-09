@@ -326,3 +326,4 @@ E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremv
 E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\ref\EcommerceStoreWithASPCoreMVC.dll
 E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.pdb
 E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\EcommerceStoreWithASPCoreMVC.genruntimeconfig.cache
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs

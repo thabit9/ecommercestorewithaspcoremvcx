@@ -18,7 +18,7 @@ namespace ecommercestorewithaspcoremvc.Models
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
-        public bool Statuss { get; set; }
+        public bool Status { get; set; }
 
         public virtual ICollection<RoleAccount> RoleAccounts { get; set; }
     }
