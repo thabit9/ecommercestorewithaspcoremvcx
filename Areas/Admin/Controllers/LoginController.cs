@@ -67,8 +67,8 @@ namespace ecommercestorewithaspcoremvc.Areas.Admin.Controllers
             return null;
         }
 
-        [Route("signout")]
-        public IActionResult SignOut()
+        [Route("_signout")]
+        public IActionResult _SignOut()
         {
             securityManager.SignOut(this.HttpContext);
             return RedirectToAction("index", "login", new { area = "admin" });
@@ -88,7 +88,8 @@ namespace ecommercestorewithaspcoremvc.Areas.Admin.Controllers
         [Route("profile")]
         public IActionResult Profile(Account account)
         {
-            var currentAccount = _db.Accounts.SingleOrDefault(a => a.Username.Equals(account.Username));
+            //var currentAccount = _db.Accounts.SingleOrDefault(a => a.Username.Equals(account.Username));
+            var currentAccount = _db.Accounts.SingleOrDefault(a => a.Id == account.Id);
             if(!string.IsNullOrEmpty(account.Password))
             {
                 currentAccount.Password = BCrypt.Net.BCrypt.HashPassword(account.Password);

@@ -14,7 +14,7 @@ namespace ecommercestorewithaspcoremvc.Models
         public int RoleId { get; set; }
         //[Key]
         public int AccountId { get; set; }
-        public bool Status { get; set; }        
+        public bool? Status { get; set; }        
 
         [ForeignKey(nameof(AccountId))]
         public virtual Account Account { get; set; }   

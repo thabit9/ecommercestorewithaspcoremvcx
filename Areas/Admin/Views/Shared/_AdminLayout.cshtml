@@ -30,7 +30,10 @@
   <!-- Daterange picker -->
   <link rel="stylesheet" href="~/admin/bower_components/bootstrap-daterangepicker/daterangepicker.css">
   <!-- bootstrap wysihtml5 - text editor -->
-  <link rel="stylesheet" href="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+  <link rel="stylesheet" href="~/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+  
+  <!-- DataTables -->
+  <link rel="stylesheet" href="~admin/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,7 +50,7 @@
 
   <header class="main-header">
     <!-- Logo -->
-    <a href="index2.html" class="logo">
+    <a asp-area="admin" asp-controller="dashboard" asp-action="index" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
@@ -294,7 +297,7 @@
                   <a asp-area="admin" asp-controller="login" asp-action="profile" class="btn btn-default btn-flat">Profile</a>
                 </div>
                 <div class="pull-right">
-                  <a asp-area="admin" asp-controller="login" asp-action="signout" lass="btn btn-default btn-flat">Sign out</a>
+                  <a asp-area="admin" asp-controller="login" asp-action="_signout" lass="btn btn-default btn-flat">Sign out</a>
                 </div>
               </li>
             </ul>
@@ -448,21 +451,21 @@
         </li>
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-folder"></i> <span>Examples</span>
+            <i class="fa fa-folder"></i> <span>Category</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="pages/examples/invoice.html"><i class="fa fa-circle-o"></i> Invoice</a></li>
-            <li><a href="pages/examples/profile.html"><i class="fa fa-circle-o"></i> Profile</a></li>
-            <li><a href="pages/examples/login.html"><i class="fa fa-circle-o"></i> Login</a></li>
+            <li><a asp-area="admin" asp-controller="category" asp-action="add"><i class="fa fa-circle-o"></i> Add</a></li>
+            <li><a asp-area="admin" asp-controller="category" asp-action="index"><i class="fa fa-circle-o"></i> List</a></li>
+            <!--<li><a href="pages/examples/login.html"><i class="fa fa-circle-o"></i> Login</a></li>
             <li><a href="pages/examples/register.html"><i class="fa fa-circle-o"></i> Register</a></li>
             <li><a href="pages/examples/lockscreen.html"><i class="fa fa-circle-o"></i> Lockscreen</a></li>
             <li><a href="pages/examples/404.html"><i class="fa fa-circle-o"></i> 404 Error</a></li>
             <li><a href="pages/examples/500.html"><i class="fa fa-circle-o"></i> 500 Error</a></li>
             <li><a href="pages/examples/blank.html"><i class="fa fa-circle-o"></i> Blank Page</a></li>
-            <li><a href="pages/examples/pace.html"><i class="fa fa-circle-o"></i> Pace Page</a></li>
+            <li><a href="pages/examples/pace.html"><i class="fa fa-circle-o"></i> Pace Page</a></li>-->
           </ul>
         </li>
         <li class="treeview">
@@ -754,5 +757,26 @@
 <script src="~/admin/dist/js/pages/dashboard.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="~/admin/dist/js/demo.js"></script>
+
+
+<!-- DataTables -->
+<script src="~/admin/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+<script src="~/admin/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+
+<!-- page script -->
+<script>
+  $(function () {
+    $('#example1').DataTable()
+    $('#example2').DataTable({
+      'paging'      : true,
+      'lengthChange': false,
+      'searching'   : false,
+      'ordering'    : true,
+      'info'        : true,
+      'autoWidth'   : false
+    })
+  })
+</script>
+
 </body>
 </html>

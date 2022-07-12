@@ -1,0 +1,59 @@
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+@model ecommercestorewithaspcoremvc.Models.Category
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <h1>
+    Add Sub Category
+    </h1>
+    <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="#">Tables</a></li>
+        <li class="active">Data tables</li>
+    </ol>
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="row">
+    <div class="col-xs-12">
+        <!-- general form elements -->
+      <div class="box box-primary">
+        <div class="box-header with-border">
+          <h3 class="box-title">Sub Category Information</h3>
+        </div>
+        <!-- /.box-header -->
+        <!-- form start -->
+        <span class="text-green">@ViewBag.msg</span>
+        <form method="post" asp-area="admin" asp-controller="category" asp-action="addsubcategory" asp-route-id="@Model.ParentId" role="form">
+          <div class="box-body">
+            <div class="form-group">
+              <label for="name">Category</label>
+              <input type="text" class="form-control" id="name" placeholder="Category Name" required asp-for="Name" />
+            </div>
+
+            <div class="checkbox">
+              <label>
+                <input type="checkbox" asp-for="Status"> Status
+              </label>
+            </div>
+
+          </div>
+          <!-- /.box-body -->
+
+          <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <input type="hidden" asp-for="ParentId" />
+          </div>
+        </form>
+      </div>
+      <!-- /.box -->
+    </div>
+    <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</section>
+<!-- /.content -->

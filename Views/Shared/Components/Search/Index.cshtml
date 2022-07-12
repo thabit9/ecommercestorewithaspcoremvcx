@@ -1,0 +1,30 @@
+@{
+    Layout = null;
+}
+
+<form class="form-inline navbar-search" method="post" action="products.html" >
+    <input id="srchFld" class="srchTxt" type="text" />
+    <select class="srchTxt">
+        <option>All</option>
+        @foreach (var category in Model)
+        {
+            @if(category.InverseParents != null && category.InverseParents.Count > 0)
+            {
+                <optgroup label="@category.Name">
+                    @foreach (var subcategory in category.InverseParents)
+                    {
+                        @if(subcategory.Status)
+                        {
+                            <option value="@subcategory.Id">@subcategory.Name</option>
+                        }
+                    }
+                </optgroup>
+            }
+            else
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        }
+    </select> 
+    <button type="submit" id="submitButton" class="btn btn-primary">Go</button>
+</form>

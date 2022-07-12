@@ -17,11 +17,49 @@ namespace ecommercestorewithaspcoremvc.DataAccess
         {
         }
         public virtual DbSet<Account> Accounts { get; set; }
+        public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<RoleAccount> RoleAccounts { get; set; }
         public virtual DbSet<Role> Roles { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Account>(entity =>
+            {
+                entity.Property(e => e.Email)
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.FullName)
+                    .HasMaxLength(150)
+                    .IsUnicode(false);
+                
+                entity.Property(e => e.Password)
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+                
+                entity.Property(e => e.Username)
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+
+            });
+            modelBuilder.Entity<Category>(entity =>
+            {
+                entity.Property(e => e.Name)
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+
+                entity.HasOne(d => d.parent)
+                    .WithMany(p => p.InverseParents)
+                    .HasForeignKey(d => d.ParentId)
+                    .HasConstraintName("FK_Category_Category");
+            });
+            modelBuilder.Entity<Role>(entity => 
+            { 
+                entity.Property(e => e.Name)
+                    .HasMaxLength(250)
+                    .IsUnicode(false);
+            
+            });
             modelBuilder.Entity<RoleAccount>(entity => 
             {
                 entity.HasKey(e => new {e.RoleId, e.AccountId});
