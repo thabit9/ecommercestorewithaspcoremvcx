@@ -333,3 +333,7 @@ E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremv
 E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\AddSubCategory.cshtml.g.cs
 E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\Components\Category\Index.cshtml.g.cs
 E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\Components\Search\Index.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\SlideShow\Add.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\SlideShow\Edit.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Areas\Admin\Views\SlideShow\Index.cshtml.g.cs
+E:\Thabis Documents\Projects\NETCore5\ecommercestore\ecommercestorewithaspcoremvc\obj\Debug\net5.0\Razor\Views\Shared\Components\SlideShow\Index.cshtml.g.cs

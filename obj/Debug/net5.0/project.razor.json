@@ -13600,6 +13600,23 @@
         }
       },
       {
+        "HashCode": 146259057,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__SlideShowViewComponentTagHelper",
+        "AssemblyName": "EcommerceStoreWithASPCoreMVC",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:slide-show"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__SlideShowViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "SlideShow"
+        }
+      },
+      {
         "HashCode": -888781716,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -15668,6 +15685,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Areas\\Admin\\Views\\SlideShow\\Add.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\SlideShow\\Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Areas\\Admin\\Views\\Login\\Profile.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Login\\Profile.cshtml",
       "FileKind": "mvc"
@@ -15675,6 +15697,11 @@
     {
       "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Views\\Shared\\Components\\Search\\Index.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Search\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15713,8 +15740,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Views\\Shared\\Components\\Category copy\\Index.cshtml",
-      "TargetPath": "Views\\Shared\\Components\\Category copy\\Index.cshtml",
+      "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Areas\\Admin\\Views\\SlideShow\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\SlideShow\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Views\\Shared\\Components\\SlideShow\\Index.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\SlideShow\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15725,6 +15757,11 @@
     {
       "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Thabis Documents\\Projects\\NETCore5\\ecommercestore\\ecommercestorewithaspcoremvc\\Areas\\Admin\\Views\\SlideShow\\Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\SlideShow\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
